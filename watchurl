@@ -1,0 +1,7 @@
+# rubygem-rspec-core needs version (~> 3.3.0)
+# check: https://rubygems.org/gems/rspec-core/versions/3.2.0
+# rubygem-rspec-expectations needs version (~> 3.3.0)
+# check: https://rubygems.org/gems/rspec-expectations/versions/3.3.0
+# rubygem-rspec-mocks needs version (~> 3.3.0)
+# check: https://rubygems.org/gems/rspec-mocks/versions/3.3.0
+watchurl=https://rubygems.org/gems/rspec-support/versions/(3.3.[\d.]*)
